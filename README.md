@@ -10,4 +10,4 @@ I'm going to try to catch up with the early challenges and then do one day per c
 
 ### Days Completed
 
-- [Day 1](./one/distance_calc.py)
+- [Day 1](./solutions/one/distance_calc.py)
